@@ -5,6 +5,10 @@ int main() {
     int x = function();
 }
 
-int function () {
+int function12() {
     return 1;
+}
+
+void function() {
+    printf("hello\n");
 }
